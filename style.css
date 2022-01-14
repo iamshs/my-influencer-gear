@@ -1,0 +1,50 @@
+/* fonts-style------- */
+body{
+    font-family: 'Courgette', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Lobster Two', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Spline Sans', sans-serif;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.header-style{
+   margin: 138px;
+   
+}
+h3{
+    /* margin-left: 10px; */
+    font-size: 28px;
+}
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+
+}
+       
+.header-info{
+    width: 580px;
+    height: 270px;
+    margin-right: 100px;
+
+}
+.header-info h1{
+    font-size: 48px;
+    margin-right: 100px;
+    
+}
+.header-image{
+    width: 440px;
+    height: 414px;
+    
+}
+.link-button{
+    background-color: blue;
+}
+.link-button a{
+    text-decoration: none;
+}
+  
+
